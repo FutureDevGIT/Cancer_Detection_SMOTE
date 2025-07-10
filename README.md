@@ -82,13 +82,3 @@ ROC AUC Score: 0.9842
 - MIT License © 2025 Mayank Raval.
 
 ---
-
-## 📦 Optional: `requirements.txt`
-
-```txt
-streamlit
-scikit-learn
-imbalanced-learn
-pandas
-numpy
-```
